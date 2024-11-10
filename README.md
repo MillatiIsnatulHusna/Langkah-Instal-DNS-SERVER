@@ -1,4 +1,4 @@
-# Langkah-Instal-DNS-SERVER
+# Langkah-Instal-DHCP-SERVER
 root@smkmanusa:~# apt-cdrom add
 
 root@smkmanusa:~# apt update
